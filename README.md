@@ -28,3 +28,9 @@ donde publicamos info del tecnomeet y  más cosas.
 * [Complemento NVDA para vs code](https://nvda.es/2020/03/14/nvda-para-vs-code-nvda-for-vs-code/)
 * [Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings)
 * [Extensión Spanish Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es)
+
+## comunidades
+
+* [programación accesible en whatsapp](https://chat.whatsapp.com/7IJaTXOlv1d7VSfjaqwYIh)
+* [programación accesible en facebook](https://facebook.com/groups/programacionaccesible/)
+* [comunidad dalat](https://chat.whatsapp.com/CRHvDE4IKGPDmmnVb2jQzQ)

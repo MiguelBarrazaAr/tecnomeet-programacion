@@ -3,7 +3,7 @@
 material para el tecnomeet del 24 de noviembre del 2021: programación a ciegas  
 orador: Miguel Barraza, mentor en programación. programador backend y test en accesibilidad web.  
 enlaces a algunas charlas:  
-- (accesibilidad web - nerdearla 2021](https://www.youtube.com/results?search_query=accesibilidad+nerdearla)
+- [accesibilidad web - Nerdearla 2021](https://www.youtube.com/results?search_query=accesibilidad+nerdearla)
 - [accesibilidad web - charla completa con Nic Argentina](https://www.youtube.com/watch?v=MEYdxYFpoJE&ab_channel=NICArgentina%28.ar%29)
 - [comercio electrónico accesible - GAAD 2021 del observatorio latinoamericano de accesibilidad](https://www.youtube.com/watch?v=QxtM0MfQL38&t=2441&ab_channel=ObservatorioLatinoamericanodeAccesibilidad)
 - [educación accesible (Dalat y la agencia Conectividad Córdoba)](https://www.youtube.com/watch?v=-36U6ar-hO8&ab_channel=AgenciaConectividadC%C3%B3rdoba)
